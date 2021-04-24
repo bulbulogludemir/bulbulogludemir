@@ -15,7 +15,7 @@
 
 <br />
 
-[discord]: https://discord.gg/2a8CGzpG
+[discord]: https://discord.gg/Z77tBQmjE3
 [instagram]: https://www.instagram.com/demir.bulbuloglu/
 [twitch]: https://www.twitch.tv/zesh61
 [youtube]: https://www.youtube.com/channel/DemirBülbüloğlu
