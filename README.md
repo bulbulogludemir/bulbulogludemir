@@ -11,8 +11,10 @@
 </p>
 <p align="center">
 <br>
+<a href="https://www.instagram.com/demir.bulbuloglu"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/demir-b%C3%BClb%C3%BClo%C4%9Flu-10283b239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:demirbulbuloglu61@gmail.com?subject=Hello, Demir"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 </p>
 
 <br>
