@@ -13,7 +13,7 @@
 <br>
 <a href="https://twitter.com/demirbulbuloglu"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="mailto:demirbulbuloglu61@gmail.com?subject=Hello, Demir"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/demirbulbuloglu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/demirbulbuloglu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <br>
