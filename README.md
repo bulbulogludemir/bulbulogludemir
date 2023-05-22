@@ -20,7 +20,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer - Hacker ;
+### I am a Software Engineer - Hacker - Gamer;
 - 🔭 I’m currently working on my small projects which I will publish soon. 😁
 - 🌱 I’m currently mastering Python.
 - 👯 I’m looking to collaborate with other Developers 😉
