@@ -4,29 +4,28 @@
 </p>
 
 <p>
-  <h4 align="center"><b>Talking is priceless, show me your code.</b></h4>
+  <h4 align="center"><b>"When something is important enough, you do it even if the odds are not in your favor." -Elon Musk</b></h4>
 </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/bulbulogludemir/count.svg" />
 </p>
 <p align="center">
 <br>
-<a href="https://www.instagram.com/demir.bulbuloglu"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/demir-b%C3%BClb%C3%BClo%C4%9Flu-10283b239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/demirbulbuloglu"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="mailto:demirbulbuloglu61@gmail.com?subject=Hello, Demir"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
+<a href="https://www.linkedin.com/in/demirbulbuloglu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer;
-- 🔭 I’m currently working on my personal AI Assistant. :grin:
+### I am a Software Engineer - Hacker ;
+- 🔭 I’m currently working on my small projects which I will publish soon. 😁
 - 🌱 I’m currently mastering Python.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 👯 I’m looking to collaborate with other Developers 😉
+- 🥅 2023 Goals: Publish my project to World!🌍
+- 💬 Ask me about anything, I am happy to help 😄
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love creating new things.
@@ -66,6 +65,5 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-[twitter]: https://twitter.com/bulbulogludemir
-[linkedin]: https://www.linkedin.com/in/demir-b%C3%BClb%C3%BClo%C4%9Flu-10283b239/
-[Instagram]: https://www.instagram.com/demir.bulbuloglu/
+[twitter]: https://twitter.com/demirbulbuloglu
+[linkedin]: https://www.linkedin.com/in/demirbulbuloglu
