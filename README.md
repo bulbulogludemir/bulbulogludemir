@@ -18,6 +18,12 @@
 
 <br>
 
+### Open source
+
+I maintain [eachlabs-ai-plugin](https://github.com/bulbulogludemir/eachlabs-ai-plugin), an MIT-licensed plugin for Claude Code and Codex that connects agents to each::labs generative media APIs. It provides model discovery, schema inspection, workflow validation, and generation tools through a bundled MCP server.
+
+[Installation and usage](https://github.com/bulbulogludemir/eachlabs-ai-plugin#install-in-claude-code) · [Contributing](https://github.com/bulbulogludemir/eachlabs-ai-plugin/blob/main/CONTRIBUTING.md)
+
 ### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=bulbulogludemir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="bulbulogludemir's Github Stats" width="60%">
